@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560155418286",
+    "firebase_url": "https://aromvt-ee988.firebaseio.com",
+    "project_id": "aromvt-ee988",
+    "storage_bucket": "aromvt-ee988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560155418286:android:7a3f520c6eeccb4ec7d73f",
+        "android_client_info": {
+          "package_name": "com.arom.beslen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560155418286-pgt7vt31vg1ti8mm2noqqi54s8a1k6r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbygR4HXFEWFOnpcvcDa9T5KBG_ke2Fw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560155418286-pgt7vt31vg1ti8mm2noqqi54s8a1k6r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
